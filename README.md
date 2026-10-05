@@ -1,7 +1,14 @@
 # Ruthiel
 
-A minimal React + Vite starter for the Ruthiel dessert shop.
-The home page is intentionally blank.
+A minimalist React + Vite storefront template for the Ruthiel dessert shop.
+
+Includes a responsive home page, filterable product collection, product details,
+shopping bag with quantity controls, and a demo checkout confirmation.
+
+Products and PHP prices are samples. Checkout does not send orders or collect
+payments. Replace `hello@ruthiel.example` with your shop email before publishing.
+Images, product names, and descriptions are placeholders for your own content.
+Fonts load from Google Fonts, requiring internet. Headings use Playfair Display.
 
 ## Start locally
 
